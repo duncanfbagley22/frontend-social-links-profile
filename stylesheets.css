@@ -103,6 +103,7 @@ img{
 
 @media only screen and (max-width: 768px) {
     .secondary-background {
-      width: 70%;
+      width: 90%;
+      height: 85%;
     }
   }
